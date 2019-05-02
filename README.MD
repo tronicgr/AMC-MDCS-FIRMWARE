@@ -28,7 +28,7 @@ release date: 5/2/2019:
 https://www.youtube.com/watch?v=NtrdQnRq1GI
 
 ### Wiring Diagram for emergency buttons and switches
-![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/AMC-MDBOX%20park-standby-emergency-force-offline%20diagram.jpg)
+![Alt Text](https://github.com/tronicgr/AMC-MDCS-FIRMWARE/blob/master/AMC-MDCS%20park-standby-emergency-force-offline%20diagram.jpg)
 
 
 
