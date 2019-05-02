@@ -14,7 +14,7 @@ release date: 5/2/2019:
   -Optional Button to switch between Park and Standby positions of the platform 
     (configurable by parameters in LCD menu)
   -Emergency Switch that disables drives
-  -Force Offline switch if you need to pause motion and park the platform 
+  -Force Offline switch if you need to pause motion and manually park the platform 
     without closing the motion software or game.
   -Slow movements manual test buttons (from the AMC panel)
   -Added parameters access via terminal
