@@ -2,7 +2,7 @@
 Firmware releases for AMC-MDCS
 
 ### Firmware procedure AMC-MDCS:
-https://www.youtube.com/watch?v=NtrdQnRq1GI
+https://www.youtube.com/watch?v=yE1EBL972JY
 
 
 ### ======= enc_6dof_AMC-MDCS_SERVO_1.4_rev3.9_Auto_Park_4DOF_TL.hex ======= 
