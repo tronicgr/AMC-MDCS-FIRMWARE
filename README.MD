@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=yE1EBL972JY
 
 
 ### ======= enc_8dof_AMC-MDCS_2_00.hex =======
+```
 release date: 7/3/2019:
   -OFFICIAL Release 2.00
   -Fixed delayed start on power on for 4DOF + TL to allow slow movement of traction loss actuator to middle position
@@ -16,6 +17,7 @@ release date: 7/3/2019:
     Yellow+Red = Park
     Red = Forced Offline
   -Added wiring diagram for the indication LEDs, see below.
+```
   
 ### Wiring Diagram for Indication LEDs
 
