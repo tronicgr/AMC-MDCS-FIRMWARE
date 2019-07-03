@@ -10,7 +10,16 @@ release date: 7/3/2019:
   -OFFICIAL Release 2.00
   -Fixed delayed start on power on for 4DOF + TL to allow slow movement of traction loss actuator to middle position
   -Provides access to parameters via AMC Config utility
+  -Added indication LEDs outputs for the various states of the controller
+    Green = Motor online
+    Yellow = Standby
+    Yellow+Red = Park
+    Red = Forced Offline
+  -Added wiring diagram for the indication LEDs, see below.
   
+### Wiring Diagram for Indication LEDs
+
+![Alt Text](
 
 
 ### ======= enc_6dof_AMC-MDCS_SERVO_1.4_rev3.9_Auto_Park_4DOF_TL.hex ======= 
