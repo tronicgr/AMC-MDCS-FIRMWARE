@@ -1,5 +1,6 @@
 # AMC-MDCS_FIRMWARE
-Firmware releases for AMC-MDCS
+Firmware releases for AMC-MDCS - Latest release can be found here:
+https://github.com/tronicgr/AMC-MDCS-FIRMWARE/tree/master/Latest_Firmware
 
 ### Firmware procedure AMC-MDCS:
 https://www.youtube.com/watch?v=yE1EBL972JY
