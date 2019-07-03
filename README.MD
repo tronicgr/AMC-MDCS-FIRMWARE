@@ -24,6 +24,11 @@ release date: 7/3/2019:
 
 ![Alt Text](https://github.com/tronicgr/AMC-MDCS-FIRMWARE/blob/master/Indication%20LEDs%20for%20AMC-MDCS.jpg)
 
+### The mosfet driver for the 12v indication LEDs can be found here:
+https://www.amazon.com/dp/B07NWD8W26/
+```
+Search for: "Anmbest 5PCS DC 5V-36V Dual High-Power MOSFET Drive Module 0-20KHz PWM Brightness Control"
+```
 
 ### ======= enc_6dof_AMC-MDCS_SERVO_1.4_rev3.9_Auto_Park_4DOF_TL.hex ======= 
 ```
