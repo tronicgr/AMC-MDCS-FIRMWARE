@@ -5,6 +5,14 @@ Firmware releases for AMC-MDCS
 https://www.youtube.com/watch?v=yE1EBL972JY
 
 
+### ======= enc_8dof_AMC-MDCS_2_00.hex =======
+release date: 7/3/2019:
+  -OFFICIAL Release 2.00
+  -Fixed delayed start on power on for 4DOF + TL to allow slow movement of traction loss actuator to middle position
+  -Provides access to parameters via AMC Config utility
+  
+
+
 ### ======= enc_6dof_AMC-MDCS_SERVO_1.4_rev3.9_Auto_Park_4DOF_TL.hex ======= 
 ```
 release date: 5/2/2019: 
