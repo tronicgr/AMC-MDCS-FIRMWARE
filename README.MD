@@ -1,7 +1,4 @@
-# AMC-MDCS_FIRMWARE
-```
-Firmware releases for AMC-MDCS - Latest release can be found here:
-```
+# AMC-MDCS_FIRMWARE - Latest release can be found here:
 https://github.com/tronicgr/AMC-MDCS-FIRMWARE/tree/master/Latest_Firmware
 
 
