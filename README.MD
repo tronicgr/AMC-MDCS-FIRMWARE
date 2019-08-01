@@ -6,6 +6,13 @@ https://github.com/tronicgr/AMC-MDCS-FIRMWARE/tree/master/Latest_Firmware
 https://www.youtube.com/watch?v=yE1EBL972JY
 
 
+### ======= enc_8dof_AMC-MDCS_2_01.hex =======
+```
+release date: 08/01/2019: 
+-Small bugfix where the the stroke position was set to 100% with Emergency Switch activated on power on.
+```
+
+
 ### ======= enc_8dof_AMC-MDCS_2_00.hex =======
 ```
 release date: 7/3/2019:
