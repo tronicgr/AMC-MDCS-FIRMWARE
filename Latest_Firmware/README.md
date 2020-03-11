@@ -1,7 +1,7 @@
 Latest firmware version for MDCS servo controller
 
 ---------------------------------------------------------------------------------------------------------------------
-### ======= enc_8dof_AMC-MDCS_2_03_fix.hex =======
+### ======= enc_8dof_AMC-MDCS_2_03-fix.hex =======
 
 - Fixed the disable Auto park issue where all actuators where parking on Force Offline switch even the TL and Surge ones.
 - Fixed issue where the Disable autopark parameter was reverting to default value.
