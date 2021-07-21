@@ -5,6 +5,25 @@ https://github.com/tronicgr/AMC-MDCS-FIRMWARE/tree/master/Latest_Firmware
 ### Firmware procedure AMC-MDCS:
 https://www.youtube.com/watch?v=yE1EBL972JY
 
+---------------------------------------------------------------------------------------------------------------------
+### ======= enc_8dof_AMC-MDCS_2_11_beta_fix4.hex =======
+7/21/2021:
+
+- added remote manipulation access of Spike Filter functions.
+- added support for SRS (Sim Racing Studio) plug and play detection and setup of spike filter.
+
+
+
+### ======= enc_8dof_AMC-MDCS_2_03-fix.hex =======
+release date: 03/18/2020:
+
+- Fixed the disable Auto park issue where all actuators where parking on Force Offline switch even the TL and Surge ones.
+- Fixed issue where the Disable autopark parameter was reverting to default value.
+- Fixed issue where the online motion where not restoring from Force Offline mode when you were modifying parameters. The changes to the parameters are temporary now and you can save them as normal after you disconnect from Simtools or other motion software.
+- Changed the order of appearance for the Spike Filter "Range" and "Level" so you won't have to go back to modify the level twice.
+
+See detailed info about the changes on the video here: https://www.youtube.com/watch?v=gPdzp0ytFX8
+
 
 ### ======= enc_8dof_AMC-MDCS_2_03.hex =======
 
