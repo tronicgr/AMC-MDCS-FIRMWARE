@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=yE1EBL972JY
 
 - added remote manipulation access of Spike Filter functions.
 - added support for SRS (Sim Racing Studio) plug and play detection and setup of spike filter.
+- 
+https://www.simracingstudio.com/forum/motion-profiles-actuator/actuator-setup-links
 
 
 
